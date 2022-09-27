@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yalcinalp (Alp Eren Yalcin)
-- 👀 I’m interested in Web Development and Cloud Technologies
-- 🌱 I’m currently learning Javascript and React
+- 👀 I’m interested in System Design, Security and DevOps
+- 🌱 I’m currently learning Kubernetes and Cloud Solutions
 - 📫 How to reach me? Easy! yalcin.alp16@gmail.com
 
 <!---
