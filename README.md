@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yalcinalp (Alp Eren Yalcin)
+- 👋 Hi, I’m @yalcinalp
 - 👀 I’m interested in System Design, Security and DevOps 
-- 🐳 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me? Easy! yalcin.alp16@gmail.com
 
 <!---
