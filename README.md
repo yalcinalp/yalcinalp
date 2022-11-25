@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 System Design, Security and DevOps
 --->
 
-To be more specific, I like working on problems about Scalability and Infrastructure of Software Systems 🐳
+More specifically, I like working on problems about Scalability and Infrastructure of Software Systems 🐳
