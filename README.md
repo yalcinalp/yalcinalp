@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yalcinalp
-- 👀 I’m interested in Scalability and Infrastructure of Software Systems (DevOps, System Design, Security)
+- 👀 I’m interested in System Design, Security, DevOps (there are more :D)
 - 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me? Easy! yalcin.alp16@gmail.com
 
@@ -9,3 +9,4 @@ You can click the Preview link to take a look at your changes.
 System Design, Security and DevOps
 --->
 
+To be more specific, I like working on problems-issues about Scalability and Infrastructure of Software Systems 🐳
