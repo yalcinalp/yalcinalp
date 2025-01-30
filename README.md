@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yalcinalp
 - 👀 I’m interested in highly scalable software systems
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently working on Kubernetes
 - 📫 How to reach me? Easy! yalcin.alp16@gmail.com
 
 <!---
