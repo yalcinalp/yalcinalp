@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @yalcinalp
 - 👀 I’m interested in highly scalable software systems
 - 🌱 I’m currently learning Kubernetes
-- 📫 How to reach me? Easy! yalcin.alp16@gmail.com or:
-
-- <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/yalcinalp/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+- 📫 How to reach me? Easy! yalcin.alp16@gmail.com
 
 <!---
 yalcinalp/yalcinalp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +10,6 @@ System Design, Security and DevOps
 --->
 
 More specifically, I like working on the problems about Infrastructure of the Software Systems 🐳
-
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -33,3 +30,5 @@ More specifically, I like working on the problems about Infrastructure of the So
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a></p>
+
+- <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/yalcinalp/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
