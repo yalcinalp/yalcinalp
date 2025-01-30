@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me? Easy! yalcin.alp16@gmail.com or:
 
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/yalcinalp/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+- <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/yalcinalp/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <!---
 yalcinalp/yalcinalp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
