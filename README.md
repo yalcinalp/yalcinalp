@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yalcinalp
-- 👀 I’m interested in highly scalable software systems
-- 🌱 I’m currently working on Kubernetes
+- 👀 I’m highly interested in working on engineering challenges with real user impacts
+- 🛠 I’m currently working on multi-threaded GUI programming with Java
 - 📫 How to reach me? Easy! yalcin.alp16@gmail.com
 
 <!---
